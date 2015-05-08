@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0"   >
+	<siteMapNode url="~/login.aspx" title="Home"    >
+		<siteMapNode title="Masters"  >
+			<siteMapNode url="~/Masters/CreateUsers.aspx" title="CreateUsers" />
+			<siteMapNode url="~/Masters/ChangePassword.aspx" title="ChangePassword" />
+			<siteMapNode url="~/Masters/Qualification.aspx" title="Creating Categories" />
+			<siteMapNode url="~/Masters/Student.aspx" title="Students" />
+			<siteMapNode url="~/Masters/Vacants.aspx" title="Post Job" />
+		</siteMapNode>
+		<siteMapNode title="Transactions">
+			<siteMapNode url="~/Transactions/SendMsg.aspx" title="Send Messages" />
+		</siteMapNode>
+	</siteMapNode>
+	</siteMap>
